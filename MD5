@@ -1,0 +1,15 @@
+a049ab61f768030cab1b26862fdff719 *DESCRIPTION
+de334b3cf252912d2934077d91b34d0a *LICENSE
+c0dff2fef20c3d728867cfb704b80108 *NAMESPACE
+879f194d937ca7f0214f1e97a0d2f16c *NEWS.md
+24f30a5b6f14f85687300f1d36d090ca *R/scperturbr.R
+6aef7a1595ed8a63bc9e4f75192b07b7 *man/edist.Rd
+c25de25fdcc01e165340ab6dde9d5f09 *man/etest.Rd
+510fa7925f1e2c69e53bd5231accebd4 *tests/testthat.R
+329157d7a302763dea22117230ae7aac *tests/testthat/test_edist.R
+f938d86d3f6ebdd81648e71f62b6e0ed *tests/testthat/test_etest.R
+7291b6bc557db69a98155a789f68c7fc *tests/testthat/testdata/barcodes.csv
+541708851c14d5c17aeb6b348f6dbf0e *tests/testthat/testdata/genes.csv
+67a1307e981478959531e0a183d78c9d *tests/testthat/testdata/matrix.mtx
+449a169ddae79fc13e48749ff310faf3 *tests/testthat/testdata/seurat_metadata.csv
+375f38f055db862e3639fd2a0ff6b4d3 *tests/testthat/testdata/seurat_pca.csv
